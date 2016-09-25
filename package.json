@@ -1,0 +1,22 @@
+{
+  "name": "lab-3",
+  "version": "1.0.0",
+  "description": "this is my lab3",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/799052964/lab-3.git"
+  },
+  "author": "Boshen",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/799052964/lab-3/issues"
+  },
+  "homepage": "https://github.com/799052964/lab-3#readme",
+  "dependencies": {
+    "connect": "^3.5.0"
+  }
+}
